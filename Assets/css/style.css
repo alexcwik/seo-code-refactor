@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     padding: 3px;
-    margin: 0
+    margin: 1px;
 }
 
 body {
@@ -18,10 +18,12 @@ body {
 .header h1 {
     display: inline;
     font-size: 48px;
+    text-align: initial;
 }
 
 .header h1 .seo {
     color: #d9dcd6;
+    text-align: initial;
 }
 
 .header div {
@@ -33,13 +35,14 @@ body {
     position: relative;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    float: right;
 }
 
 a {
@@ -82,7 +85,7 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-right: 0px;
     padding: 20px;
     clear: both;
     float: right;
@@ -203,8 +206,11 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    justify-content: center;
 }
 
 .footer h2 {
     font-size: 20px;
+    
 }
+

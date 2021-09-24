@@ -19,5 +19,3 @@ https://alexcwik.github.io/seo-code-refactor/
 
 7. Both the CSS and HTML file were edited through the SEO-CODE-REFACTOR folder in the main branch. The modifications were uploaded to the repository but there are still 
 issues with the CSS loading. It works but for some reason not in GitHub. 
-  
-  

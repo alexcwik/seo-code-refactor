@@ -19,3 +19,5 @@ Many of my initial adjustments during the refactoring damaged the integerity of 
 
 Both the CSS and HTML file were edited through the SEO-CODE-REFACTOR folder in the main branch. The modifications were uploaded to the repository but there are still 
 issues with the CSS loading. It works but for some reason not in GitHub. 
+  
+  
